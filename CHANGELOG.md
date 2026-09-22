@@ -10,7 +10,7 @@ Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 ## [Unreleased]
 
 ### Fixed
-- **Audio inputs**: Normalize WAV and AAC MIME aliases consistently for files, data URIs, HTTP, and GCS sources, and recognize dotted AAC subtypes during data URI detection.
+- **Audio inputs**: Normalize WAV and AAC MIME aliases consistently for files, data URIs, HTTP, and GCS sources, and recognize dotted AAC subtypes during data URI detection. ([#2677](https://github.com/567-labs/instructor/pull/2677))
 
 ## [1.17.1] - 2026-09-09
 
